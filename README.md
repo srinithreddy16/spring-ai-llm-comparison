@@ -1,6 +1,12 @@
 # Spring AI — LLM Comparison API
 
-A Spring Boot REST API that exposes multiple large language model (LLM) providers behind a single set of endpoints, so you can compare responses from **OpenAI**, **Anthropic (Claude)**, and **Ollama** from one place.
+A Spring Boot REST API that exposes multiple large language model (LLM) providers behind a single set of endpoints, so you can compare responses from one place.
+
+## OpenAI
+
+## Anthropic
+
+## Ollama
 
 ## Features
 
